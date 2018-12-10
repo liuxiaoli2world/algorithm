@@ -4,7 +4,7 @@
   "description": "算法javascript版本实现",
   "main": "index.js",
   "scripts": {
-    "test": "jest test/register.js"
+    "test": "jest test/test.sum.js"
   },
   "repository": {
     "type": "git",
